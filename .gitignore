@@ -3,6 +3,40 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# chatgpt generated
+# Data files
+data/
+*.csv
+*.parquet
+*.feather
+
+# Models
+models/
+*.pkl
+*.joblib
+*.keras
+*.h5
+
+# Python cache
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Notebook temporary files
+.ipynb_checkpoints/
+
+# Credentials and environment files
+.env
+*.key
+credentials.json
+service_account.json
+
+# Operating system
+.DS_Store
+Thumbs.db
+
 # C extensions
 *.so
 
