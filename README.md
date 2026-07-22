@@ -1,0 +1,2 @@
+# quant_research_crypto_volatility_forecasting
+Crypto market data pipeline and volatility forecasting research project
